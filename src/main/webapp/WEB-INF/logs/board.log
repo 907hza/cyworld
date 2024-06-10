@@ -1,0 +1,1726 @@
+[2024-01-11 15:06:42.308] [http-nio-8088-exec-14] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=4D321E4E2FAF9E5A618A636798ACE57A]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-11 15:06:42.318] [http-nio-8088-exec-14] DEBUG loginPro.jsp - user Id : test
+[2024-01-11 15:06:42.318] [http-nio-8088-exec-14] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-11 16:18:03.399] [http-nio-8088-exec-17] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=4D321E4E2FAF9E5A618A636798ACE57A]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-11 16:18:03.400] [http-nio-8088-exec-17] DEBUG loginPro.jsp - user Id : 
+[2024-01-11 16:18:03.400] [http-nio-8088-exec-17] DEBUG loginPro.jsp - userPwd : 
+[2024-01-11 16:31:26.843] [http-nio-8088-exec-16] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [29]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=5E8DB47AFBB136ED747BF2793D587D21]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [ttttttt]
+[userPwd] : [123456]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-11 16:31:26.845] [http-nio-8088-exec-16] DEBUG loginPro.jsp - user Id : ttttttt
+[2024-01-11 16:31:26.845] [http-nio-8088-exec-16] DEBUG loginPro.jsp - userPwd : 123456
+[2024-01-11 16:35:02.189] [http-nio-8088-exec-12] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [28]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=5E8DB47AFBB136ED747BF2793D587D21]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [11111111]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-11 16:35:02.190] [http-nio-8088-exec-12] DEBUG loginPro.jsp - user Id : test
+[2024-01-11 16:35:02.190] [http-nio-8088-exec-12] DEBUG loginPro.jsp - userPwd : 11111111
+[2024-01-11 17:20:50.135] [http-nio-8088-exec-3] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=3683CDE6C91FEAFCB2CCF604821D786D]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-11 17:20:50.146] [http-nio-8088-exec-3] DEBUG loginPro.jsp - user Id : test
+[2024-01-11 17:20:50.146] [http-nio-8088-exec-3] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-11 17:20:51.530] [http-nio-8088-exec-3] ERROR com.sist.web.db.DBManager - [DBManager] getConnection SQLException
+java.sql.SQLException: Cannot create PoolableConnectionFactory (ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:632) ~[tomcat-dbcp.jar:9.0.84]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:534) ~[tomcat-dbcp.jar:9.0.84]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:710) ~[tomcat-dbcp.jar:9.0.84]
+	at com.sist.web.db.DBManager.getConnection(DBManager.java:64) [classes/:?]
+	at com.sist.web.dao.UserDao.userSelect(UserDao.java:37) [classes/:?]
+	at org.apache.jsp.loginProc_jsp._jspService(loginProc_jsp.java:159) [ROOT/:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) [jasper.jar:9.0.84]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) [servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) [jasper.jar:9.0.84]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:379) [jasper.jar:9.0.84]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:327) [jasper.jar:9.0.84]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-websocket.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at com.sist.web.filter.UrlUserAuthFilter.doFilter(UrlUserAuthFilter.java:104) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at com.sist.web.filter.HttpEncodingFilter.doFilter(HttpEncodingFilter.java:57) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) [log4j-web-2.14.0.jar:2.14.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [catalina.jar:9.0.84]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) [catalina.jar:9.0.84]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [catalina.jar:9.0.84]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:670) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.84]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [catalina.jar:9.0.84]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) [tomcat-coyote.jar:9.0.84]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-coyote.jar:9.0.84]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.84]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.84]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.84]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_332]
+Caused by: java.sql.SQLException: ORA-01017: 사용자명/비밀번호가 부적합, 로그온할 수 없습니다.
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:630) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:559) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:554) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.processError(T4CTTIfun.java:1376) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoauthenticate.processError(T4CTTIoauthenticate.java:700) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:771) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:299) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoauthenticate.doOAUTH(T4CTTIoauthenticate.java:390) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoauthenticate.doOAUTHWithO5Logon(T4CTTIoauthenticate.java:1471) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoauthenticate.doOAUTH(T4CTTIoauthenticate.java:1220) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoauthenticate.doOAUTH(T4CTTIoauthenticate.java:1174) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CConnection.authenticateUserForLogon(T4CConnection.java:1032) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:648) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:1039) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:90) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:728) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:649) ~[ojdbc8.jar:21.3.0.0.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.84]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:414) ~[tomcat-dbcp.jar:9.0.84]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:112) ~[tomcat-dbcp.jar:9.0.84]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:628) ~[tomcat-dbcp.jar:9.0.84]
+	... 42 more
+[2024-01-11 17:20:51.537] [http-nio-8088-exec-3] ERROR com.sist.web.dao.UserDao - [UserDao] userSelect SQLException
+java.lang.NullPointerException: null
+	at com.sist.web.dao.UserDao.userSelect(UserDao.java:38) [classes/:?]
+	at org.apache.jsp.loginProc_jsp._jspService(loginProc_jsp.java:159) [ROOT/:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) [jasper.jar:9.0.84]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) [servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) [jasper.jar:9.0.84]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:379) [jasper.jar:9.0.84]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:327) [jasper.jar:9.0.84]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-websocket.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at com.sist.web.filter.UrlUserAuthFilter.doFilter(UrlUserAuthFilter.java:104) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at com.sist.web.filter.HttpEncodingFilter.doFilter(HttpEncodingFilter.java:57) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) [log4j-web-2.14.0.jar:2.14.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [catalina.jar:9.0.84]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) [catalina.jar:9.0.84]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [catalina.jar:9.0.84]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:670) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.84]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [catalina.jar:9.0.84]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) [tomcat-coyote.jar:9.0.84]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-coyote.jar:9.0.84]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.84]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.84]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.84]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_332]
+[2024-01-11 17:22:54.866] [http-nio-8088-exec-3] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=4CC18C7432AEA062C9D53DAFD7B36699]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1111]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-11 17:22:54.876] [http-nio-8088-exec-3] DEBUG loginPro.jsp - user Id : test
+[2024-01-11 17:22:54.877] [http-nio-8088-exec-3] DEBUG loginPro.jsp - userPwd : 1111
+[2024-01-11 17:22:55.408] [http-nio-8088-exec-3] ERROR com.sist.web.dao.UserDao - [UserDao] userSelect SQLException
+java.sql.SQLException: 부적합한 열 이름
+	at oracle.jdbc.driver.OracleStatement.getColumnIndexPrimitive(OracleStatement.java:4257) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.getColumnIndex(OracleStatement.java:4215) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.findColumn(InsensitiveScrollableResultSet.java:299) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.GeneratedResultSet.getString(GeneratedResultSet.java:662) ~[ojdbc8.jar:21.3.0.0.0]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingResultSet.getString(DelegatingResultSet.java:900) ~[tomcat-dbcp.jar:9.0.84]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingResultSet.getString(DelegatingResultSet.java:900) ~[tomcat-dbcp.jar:9.0.84]
+	at com.sist.web.dao.UserDao.userSelect(UserDao.java:52) [classes/:?]
+	at org.apache.jsp.loginProc_jsp._jspService(loginProc_jsp.java:159) [ROOT/:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) [jasper.jar:9.0.84]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) [servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) [jasper.jar:9.0.84]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:379) [jasper.jar:9.0.84]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:327) [jasper.jar:9.0.84]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-websocket.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at com.sist.web.filter.UrlUserAuthFilter.doFilter(UrlUserAuthFilter.java:104) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at com.sist.web.filter.HttpEncodingFilter.doFilter(HttpEncodingFilter.java:57) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) [log4j-web-2.14.0.jar:2.14.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [catalina.jar:9.0.84]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) [catalina.jar:9.0.84]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [catalina.jar:9.0.84]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:670) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.84]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [catalina.jar:9.0.84]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) [tomcat-coyote.jar:9.0.84]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-coyote.jar:9.0.84]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.84]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.84]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.84]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_332]
+[2024-01-11 17:24:25.115] [http-nio-8088-exec-2] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=4CC18C7432AEA062C9D53DAFD7B36699]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1111]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-11 17:24:25.127] [http-nio-8088-exec-2] DEBUG loginPro.jsp - user Id : test
+[2024-01-11 17:24:25.127] [http-nio-8088-exec-2] DEBUG loginPro.jsp - userPwd : 1111
+[2024-01-11 17:24:25.594] [http-nio-8088-exec-2] ERROR com.sist.web.dao.UserDao - [UserDao] userSelect SQLException
+java.sql.SQLSyntaxErrorException: ORA-00904: "USER_PWD1": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:630) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:564) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1151) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:771) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:299) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:498) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:152) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForDescribe(T4CPreparedStatement.java:937) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.prepareDefineBufferAndExecute(OracleStatement.java:1172) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1101) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.executeSQLSelect(OracleStatement.java:1426) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1309) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3746) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatement.executeQuery(OraclePreparedStatement.java:3855) ~[ojdbc8.jar:21.3.0.0.0]
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeQuery(OraclePreparedStatementWrapper.java:1098) ~[ojdbc8.jar:21.3.0.0.0]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:123) ~[tomcat-dbcp.jar:9.0.84]
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:123) ~[tomcat-dbcp.jar:9.0.84]
+	at com.sist.web.dao.UserDao.userSelect(UserDao.java:42) [classes/:?]
+	at org.apache.jsp.loginProc_jsp._jspService(loginProc_jsp.java:159) [ROOT/:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) [jasper.jar:9.0.84]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) [servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) [jasper.jar:9.0.84]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:379) [jasper.jar:9.0.84]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:327) [jasper.jar:9.0.84]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) [tomcat-websocket.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at com.sist.web.filter.UrlUserAuthFilter.doFilter(UrlUserAuthFilter.java:104) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at com.sist.web.filter.HttpEncodingFilter.doFilter(HttpEncodingFilter.java:57) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) [log4j-web-2.14.0.jar:2.14.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [catalina.jar:9.0.84]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) [catalina.jar:9.0.84]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [catalina.jar:9.0.84]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:670) [catalina.jar:9.0.84]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.84]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [catalina.jar:9.0.84]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) [tomcat-coyote.jar:9.0.84]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-coyote.jar:9.0.84]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-coyote.jar:9.0.84]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.84]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.84]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.84]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_332]
+Caused by: oracle.jdbc.OracleDatabaseException: ORA-00904: "USER_PWD1": 부적합한 식별자
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:637) ~[ojdbc8.jar:21.3.0.0.0]
+	... 55 more
+[2024-01-11 17:29:09.860] [http-nio-8088-exec-12] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=4CC18C7432AEA062C9D53DAFD7B36699]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-11 17:29:09.870] [http-nio-8088-exec-12] DEBUG loginPro.jsp - user Id : test
+[2024-01-11 17:29:09.870] [http-nio-8088-exec-12] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-11 17:36:37.373] [http-nio-8088-exec-13] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=4CC18C7432AEA062C9D53DAFD7B36699]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-11 17:36:37.374] [http-nio-8088-exec-13] DEBUG loginPro.jsp - user Id : test
+[2024-01-11 17:36:37.374] [http-nio-8088-exec-13] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 10:58:13.554] [http-nio-8088-exec-8] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 10:58:13.565] [http-nio-8088-exec-8] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 10:58:13.565] [http-nio-8088-exec-8] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 10:58:37.467] [http-nio-8088-exec-2] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 10:58:37.468] [http-nio-8088-exec-2] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 10:58:37.468] [http-nio-8088-exec-2] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:11:59.624] [http-nio-8088-exec-5] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 11:11:59.636] [http-nio-8088-exec-5] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 11:11:59.637] [http-nio-8088-exec-5] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:11:59.637] [http-nio-8088-exec-5] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 11:33:53.799] [http-nio-8088-exec-12] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [26]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8; USER_ID=test]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [sample]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 11:33:53.810] [http-nio-8088-exec-12] DEBUG loginPro.jsp - user Id : sample
+[2024-01-12 11:33:53.810] [http-nio-8088-exec-12] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:33:53.810] [http-nio-8088-exec-12] DEBUG loginPro.jsp - cookieUserId : test
+[2024-01-12 11:33:53.810] [http-nio-8088-exec-12] DEBUG loginPro.jsp - 쿠키 정보가 있을 경우................
+[2024-01-12 11:40:41.202] [http-nio-8088-exec-17] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8; USER_ID=test]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-12 11:40:41.203] [http-nio-8088-exec-17] DEBUG loginPro.jsp - user Id : 
+[2024-01-12 11:40:41.203] [http-nio-8088-exec-17] DEBUG loginPro.jsp - userPwd : 
+[2024-01-12 11:40:41.203] [http-nio-8088-exec-17] DEBUG loginPro.jsp - cookieUserId : test
+[2024-01-12 11:40:41.203] [http-nio-8088-exec-17] DEBUG loginPro.jsp - 쿠키 정보가 있을 경우................
+[2024-01-12 11:45:17.993] [http-nio-8088-exec-11] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 11:45:17.993] [http-nio-8088-exec-11] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 11:45:17.993] [http-nio-8088-exec-11] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:45:17.993] [http-nio-8088-exec-11] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 11:45:38.199] [http-nio-8088-exec-13] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [27]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8; USER_ID=test]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [ttttttt]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 11:45:38.200] [http-nio-8088-exec-13] DEBUG loginPro.jsp - user Id : ttttttt
+[2024-01-12 11:45:38.200] [http-nio-8088-exec-13] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:45:38.200] [http-nio-8088-exec-13] DEBUG loginPro.jsp - cookieUserId : test
+[2024-01-12 11:45:38.200] [http-nio-8088-exec-13] DEBUG loginPro.jsp - 쿠키 정보가 있을 경우................
+[2024-01-12 11:46:16.134] [http-nio-8088-exec-17] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 11:46:16.134] [http-nio-8088-exec-17] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 11:46:16.134] [http-nio-8088-exec-17] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:46:16.134] [http-nio-8088-exec-17] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 11:47:47.942] [http-nio-8088-exec-11] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8; USER_ID=test]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 11:47:47.943] [http-nio-8088-exec-11] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 11:47:47.943] [http-nio-8088-exec-11] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:47:47.943] [http-nio-8088-exec-11] DEBUG loginPro.jsp - cookieUserId : test
+[2024-01-12 11:47:47.943] [http-nio-8088-exec-11] DEBUG loginPro.jsp - 쿠키 정보가 있을 경우................
+[2024-01-12 11:53:11.769] [http-nio-8088-exec-16] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 11:53:11.770] [http-nio-8088-exec-16] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 11:53:11.770] [http-nio-8088-exec-16] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:53:11.770] [http-nio-8088-exec-16] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 11:53:35.948] [http-nio-8088-exec-20] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 11:53:35.948] [http-nio-8088-exec-20] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 11:53:35.948] [http-nio-8088-exec-20] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:53:35.948] [http-nio-8088-exec-20] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 11:53:43.419] [http-nio-8088-exec-12] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [26]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=87B60B23B1E6536FA51E66779E38CDE8; USER_ID=test]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [sample]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 11:53:43.420] [http-nio-8088-exec-12] DEBUG loginPro.jsp - user Id : sample
+[2024-01-12 11:53:43.420] [http-nio-8088-exec-12] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 11:53:43.420] [http-nio-8088-exec-12] DEBUG loginPro.jsp - cookieUserId : test
+[2024-01-12 11:53:43.420] [http-nio-8088-exec-12] DEBUG loginPro.jsp - 쿠키 정보가 있을 경우................
+[2024-01-12 14:15:30.846] [http-nio-8088-exec-5] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=FD38305A538C5001346B6A81BF3836A6]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 14:15:30.857] [http-nio-8088-exec-5] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 14:15:30.857] [http-nio-8088-exec-5] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 14:15:30.857] [http-nio-8088-exec-5] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 14:16:32.368] [http-nio-8088-exec-3] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=FD38305A538C5001346B6A81BF3836A6]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 14:16:32.369] [http-nio-8088-exec-3] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 14:16:32.369] [http-nio-8088-exec-3] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 14:16:32.369] [http-nio-8088-exec-3] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 14:17:05.479] [http-nio-8088-exec-5] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [30]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=FD38305A538C5001346B6A81BF3836A6; USER_ID=test]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [sample]
+[userPwd] : [11111111]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 14:17:05.479] [http-nio-8088-exec-5] DEBUG loginPro.jsp - user Id : sample
+[2024-01-12 14:17:05.480] [http-nio-8088-exec-5] DEBUG loginPro.jsp - userPwd : 11111111
+[2024-01-12 14:17:05.480] [http-nio-8088-exec-5] DEBUG loginPro.jsp - cookieUserId : test
+[2024-01-12 14:17:05.480] [http-nio-8088-exec-5] DEBUG loginPro.jsp - 쿠키 정보가 있을 경우................
+[2024-01-12 14:17:19.914] [http-nio-8088-exec-7] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=FD38305A538C5001346B6A81BF3836A6]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 14:17:19.914] [http-nio-8088-exec-7] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 14:17:19.914] [http-nio-8088-exec-7] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 14:17:19.915] [http-nio-8088-exec-7] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 14:17:41.517] [http-nio-8088-exec-3] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [26]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=FD38305A538C5001346B6A81BF3836A6; USER_ID=test]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [sample]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 14:17:41.518] [http-nio-8088-exec-3] DEBUG loginPro.jsp - user Id : sample
+[2024-01-12 14:17:41.518] [http-nio-8088-exec-3] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 14:17:41.518] [http-nio-8088-exec-3] DEBUG loginPro.jsp - cookieUserId : test
+[2024-01-12 14:17:41.518] [http-nio-8088-exec-3] DEBUG loginPro.jsp - 쿠키 정보가 있을 경우................
+[2024-01-12 14:37:33.086] [http-nio-8088-exec-4] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=FD38305A538C5001346B6A81BF3836A6]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 14:37:33.086] [http-nio-8088-exec-4] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 14:37:33.086] [http-nio-8088-exec-4] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 14:37:33.086] [http-nio-8088-exec-4] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 14:44:23.310] [http-nio-8088-exec-1] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [24]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=FD38305A538C5001346B6A81BF3836A6]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 14:44:23.310] [http-nio-8088-exec-1] DEBUG loginPro.jsp - user Id : test
+[2024-01-12 14:44:23.310] [http-nio-8088-exec-1] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-12 14:44:23.310] [http-nio-8088-exec-1] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-12 14:44:42.821] [http-nio-8088-exec-2] DEBUG loginOut.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginOut.jsp]
+[URI]       : [/loginOut.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=FD38305A538C5001346B6A81BF3836A6; USER_ID=test]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-12 17:36:17.706] [http-nio-8088-exec-13] DEBUG userIdCheckAjax.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userIdCheckAjax.jsp]
+[URI]       : [/user/userIdCheckAjax.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [11]
+[accept] : [*/*]
+[x-requested-with] : [XMLHttpRequest]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[content-type] : [application/x-www-form-urlencoded; charset=UTF-8]
+[origin] : [http://test.sist.co.kr:8088]
+[referer] : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=0BE9B3A63AEC0DCD51DC3A2149E9BE90]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-12 17:37:28.720] [http-nio-8088-exec-14] DEBUG userIdCheckAjax.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userIdCheckAjax.jsp]
+[URI]       : [/user/userIdCheckAjax.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [12]
+[accept] : [*/*]
+[x-requested-with] : [XMLHttpRequest]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[content-type] : [application/x-www-form-urlencoded; charset=UTF-8]
+[origin] : [http://test.sist.co.kr:8088]
+[referer] : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=0BE9B3A63AEC0DCD51DC3A2149E9BE90]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test2]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-15 09:07:01.641] [http-nio-8088-exec-8] DEBUG userIdCheckAjax.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userIdCheckAjax.jsp]
+[URI]       : [/user/userIdCheckAjax.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [11]
+[accept] : [*/*]
+[x-requested-with] : [XMLHttpRequest]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[content-type] : [application/x-www-form-urlencoded; charset=UTF-8]
+[origin] : [http://test.sist.co.kr:8088]
+[referer] : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=CFE92CB3306E6B33A61D875EF88C796C]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-15 09:07:22.982] [http-nio-8088-exec-10] DEBUG userIdCheckAjax.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userIdCheckAjax.jsp]
+[URI]       : [/user/userIdCheckAjax.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [12]
+[accept] : [*/*]
+[x-requested-with] : [XMLHttpRequest]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[content-type] : [application/x-www-form-urlencoded; charset=UTF-8]
+[origin] : [http://test.sist.co.kr:8088]
+[referer] : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=CFE92CB3306E6B33A61D875EF88C796C]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test2]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-15 09:37:36.611] [http-nio-8088-exec-2] DEBUG userIdCheckAjax.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userIdCheckAjax.jsp]
+[URI]       : [/user/userIdCheckAjax.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=CFE92CB3306E6B33A61D875EF88C796C]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+userId='ttt'
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-15 09:37:50.648] [http-nio-8088-exec-5] DEBUG userIdCheckAjax.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userIdCheckAjax.jsp]
+[URI]       : [/user/userIdCheckAjax.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=CFE92CB3306E6B33A61D875EF88C796C]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+userId=
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-15 09:38:13.691] [http-nio-8088-exec-8] DEBUG userIdCheckAjax.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userIdCheckAjax.jsp]
+[URI]       : [/user/userIdCheckAjax.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=CFE92CB3306E6B33A61D875EF88C796C]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+userId=
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-15 09:38:24.585] [http-nio-8088-exec-9] DEBUG userIdCheckAjax.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userIdCheckAjax.jsp]
+[URI]       : [/user/userIdCheckAjax.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=CFE92CB3306E6B33A61D875EF88C796C]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-15 11:06:56.074] [http-nio-8088-exec-11] DEBUG userProc.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userProc.jsp]
+[URI]       : [/user/userProc.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=CFE92CB3306E6B33A61D875EF88C796C]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+userId=test&userPwd=1234&userName=ttt&userEmail=ttt
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-15 11:14:03.305] [http-nio-8088-exec-17] DEBUG userProc.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userProc.jsp]
+[URI]       : [/user/userProc.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=EE21044D57DC8CBCE5256CE231195084]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+userId=test&userPwd=1234&userName=ttt
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-15 11:28:43.427] [http-nio-8088-exec-13] DEBUG userProc.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userProc.jsp]
+[URI]       : [/user/userProc.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=EE21044D57DC8CBCE5256CE231195084]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+userId=test&userPwd=1234&userName=ttt&userEmail=ttt
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-15 11:30:05.898] [http-nio-8088-exec-19] DEBUG userProc.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userProc.jsp]
+[URI]       : [/user/userProc.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : []
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=EE21044D57DC8CBCE5256CE231195084]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+userId=test2&userPwd=1234&userName=ttt&userEmail=ttt
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-15 11:30:25.720] [http-nio-8088-exec-12] DEBUG loginPro.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginProc.jsp]
+[URI]       : [/loginProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [25]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=EE21044D57DC8CBCE5256CE231195084]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test2]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-15 11:30:25.720] [http-nio-8088-exec-12] DEBUG loginPro.jsp - user Id : test2
+[2024-01-15 11:30:25.721] [http-nio-8088-exec-12] DEBUG loginPro.jsp - userPwd : 1234
+[2024-01-15 11:30:25.721] [http-nio-8088-exec-12] DEBUG loginPro.jsp - cookieUserId : 
+[2024-01-15 11:37:50.250] [http-nio-8088-exec-16] DEBUG loginOut.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/loginOut.jsp]
+[URI]       : [/loginOut.jsp]
+[Method]    : [GET]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[upgrade-insecure-requests] : [1]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=EE21044D57DC8CBCE5256CE231195084; USER_ID=test2]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Get Parameters                                                               
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+
+[2024-01-15 11:38:27.638] [http-nio-8088-exec-12] DEBUG userIdCheckAjax.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userIdCheckAjax.jsp]
+[URI]       : [/user/userIdCheckAjax.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [11]
+[accept] : [*/*]
+[x-requested-with] : [XMLHttpRequest]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[content-type] : [application/x-www-form-urlencoded; charset=UTF-8]
+[origin] : [http://test.sist.co.kr:8088]
+[referer] : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=EE21044D57DC8CBCE5256CE231195084]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+////////////////////////////////////////////////////////////////////////////////
+[2024-01-15 11:38:27.656] [http-nio-8088-exec-11] DEBUG userProc.jsp - 
+////////////////////////////////////////////////////////////////////////////////
+[Remote IP] : [127.0.0.1]
+[Locale]    : [ko_KR]
+[URL]       : [http://test.sist.co.kr:8088/user/userProc.jsp]
+[URI]       : [/user/userProc.jsp]
+[Method]    : [POST]
+[Protocol]  : [HTTP/1.1]
+[Referer]   : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+////////////////////////////////////////////////////////////////////////////////
+// Headers                                                                      
+////////////////////////////////////////////////////////////////////////////////
+[host] : [test.sist.co.kr:8088]
+[connection] : [keep-alive]
+[content-length] : [116]
+[cache-control] : [max-age=0]
+[upgrade-insecure-requests] : [1]
+[origin] : [http://test.sist.co.kr:8088]
+[content-type] : [application/x-www-form-urlencoded]
+[user-agent] : [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]
+[accept] : [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+[referer] : [http://test.sist.co.kr:8088/user/userRegForm.jsp]
+[accept-encoding] : [gzip, deflate]
+[accept-language] : [ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7]
+[cookie] : [_gcl_au=1.1.1795675097.1703233876; _fbp=fb.2.1703233875771.629874976; JSESSIONID=EE21044D57DC8CBCE5256CE231195084]
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+// Post Parameters                                                              
+////////////////////////////////////////////////////////////////////////////////
+[userId] : [test]
+[userPwd1] : [1234]
+[userPwd2] : [1234]
+[userName] : [홍길동]
+[userEmail] : [ttt@sist.co.kr]
+[userPwd] : [1234]
+////////////////////////////////////////////////////////////////////////////////
