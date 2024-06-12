@@ -64,5 +64,5 @@ public class HttpEncodingFilter implements Filter
     public void destroy() 
 	{
 		
-    }
+	}
 }

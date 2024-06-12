@@ -137,7 +137,7 @@ public class BoardDao7
 		ResultSet rs = null;
 		StringBuilder sql = new StringBuilder();
 		
-		sql.append("	SELECT DIARY_N,U_ID, D_TITLE, D_CONTENT, TO_CHAR(REG_DATE,'YYYY-MM-DD') REG_DATE");
+		sql.append("	SELECT DIARY_N,U_ID, D_TITLE, UTL_RAW.CAST_TO_VARCHAR2(D_CONTENT), TO_CHAR(REG_DATE,'YYYY-MM-DD') REG_DATE");
 		sql.append("	FROM DIARY ");
 		sql.append("	ORDER BY DIARY_N DESC ");
 
@@ -160,7 +160,7 @@ public class BoardDao7
 				diary.setDiaryN(rs.getLong("DIARY_N"));
 				diary.setuId(rs.getString("U_ID"));
 				diary.setdTitle(rs.getString("D_TITLE"));
-				diary.setdContent(rs.getString("D_CONTENT"));
+				diary.setdContent(rs.getString("UTL_RAW.CAST_TO_VARCHAR2(D_CONTENT)"));
 				diary.setRegDate(rs.getString("REG_DATE"));
 				
 				list.add(diary);
@@ -505,10 +505,12 @@ public class BoardDao7
 		ResultSet rs = null;
 		StringBuilder sql = new StringBuilder();
 		
-		sql.append("		SELECT DIARY_N, U_ID, D_TITLE, D_CONTENT, TO_CHAR(REG_DATE,'YYYY-MM-DD') ");
+		sql.append("		SELECT DIARY_N, U_ID, D_TITLE, UTL_RAW.CAST_TO_VARCHAR2(D_CONTENT), TO_CHAR(REG_DATE,'YYYY-MM-DD') ");
 		sql.append("          FROM DIARY ");
 		sql.append("         WHERE DIARY_N = ? ");
-				
+		
+		//DIARY_N, U_ID, D_TITLE, UTL_RAW.CAST_TO_VARCHAR2(D_CONTENT), REG_DATE
+		
 		try
 		{
 			conn = DBManager.getConnection();
@@ -525,7 +527,7 @@ public class BoardDao7
 				diary7.setDiaryN(rs.getLong("DIARY_N"));
 				diary7.setuId(rs.getString("U_ID"));
 				diary7.setdTitle(rs.getString("D_TITLE"));
-				diary7.setdContent(rs.getString("D_CONTENT"));
+				diary7.setdContent(rs.getString("UTL_RAW.CAST_TO_VARCHAR2(D_CONTENT)"));
 				diary7.setRegDate(rs.getString("TO_CHAR(REG_DATE,'YYYY-MM-DD')"));
 			}
 		}
@@ -740,7 +742,7 @@ public class BoardDao7
 		StringBuilder sql = new StringBuilder();
 		
 		sql.append("INSERT INTO DIARY (DIARY_N, U_ID, D_TITLE, D_CONTENT, REG_DATE) ");
-		sql.append("VALUES ((SELECT NVL(MAX(DIARY_N), 0) + 1 FROM DIARY),?,?,?,SYSDATE) ");
+		sql.append("VALUES ((SELECT NVL(MAX(DIARY_N), 0) + 1 FROM DIARY),?,?,UTL_RAW.CAST_TO_RAW(?),SYSDATE) ");
 		
 		try
 		{

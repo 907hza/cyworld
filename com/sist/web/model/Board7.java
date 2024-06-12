@@ -1,5 +1,7 @@
 package com.sist.web.model;
 import java.io.*;
+import com.sist.web.model.User7;
+import com.sist.web.dao.UserDao7;
 
 
 public class Board7 implements Serializable

@@ -18,10 +18,7 @@
 	Logger logger = LogManager.getLogger("/board/list7.jsp");
 	HttpUtil.requestLogString(request, logger);
 	
-	String searchType = HttpUtil.get(request,"searchType",""); // 조회항목
-	String searchValue = HttpUtil.get(request,"searchValue",""); // 조회 값
-	
-	long curPage = HttpUtil.get(request, "curPage",(long)1); // 현재 페이지
+	long curPage = 1L;
 	
 	long totalCount = 0; // 총 게시물 수
 	
@@ -152,11 +149,5 @@
         </div>
       </div>
     </div>
- <form name="bbsForm" id="bbsForm" method="post">
-	<input type="hidden" name="boardN" value="">
-	<input type="hidden" name="searchType" value="<%=searchType %>">
-	<input type="hidden" name="searchValue" value="<%=searchValue %>">
-	<input type="hidden" name="curPage" value="<%=curPage %>">	
-</form>
   </body>
 </html>

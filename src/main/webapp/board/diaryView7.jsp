@@ -20,7 +20,7 @@
 	Logger logger = LogManager.getLogger("board/diaryView7.jsp");
 	HttpUtil.requestLogString(request, logger);
 	
-	String cookieUserId = CookieUtil.getValue(request, "U_ID");
+	String cookieUserId = CookieUtil.getValue(request,"U_ID");
 	
 	long curPage = HttpUtil.get(request,"curPage",(long)1);
 	
@@ -69,6 +69,8 @@
     <script>
     $(document).ready(function(){
 		<%
+		System.out.println("cookieUserId : "+cookieUserId);
+		System.out.println("diary7.getuId() : "+diary7.getuId());
     			if(StringUtil.equals(cookieUserId, diary7.getuId()))
     			{
     	%>			

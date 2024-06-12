@@ -109,7 +109,7 @@
 		document.bbsForm.action = "/board/boardView7.jsp";
 		document.bbsForm.submit();
 	}
-	function fn_list(curPage) // 지역변수라 신경 ㄴㄴ
+	function fn_list(curPage) // 지역변수
 	{
 		document.bbsForm.boardN.value = "";
 		document.bbsForm.curPage.value = curPage;
@@ -262,7 +262,7 @@ a {
          <tr>
          <td style="text-align: center;" ><%=startNum %></td>
          <td style="text-align: center;"><a href="javascript:void(0)" onclick="fn_view(<%=board.getBoardN()%>)"><%=board.getbTitle() %></a></td>
-         <td class="test-center" ><%=board.getuNickname() %></td>
+         <td class="test-center" ><%=board.getuId() %></td>
          <td class="test-center"><%=StringUtil.toNumberFormat(board.getBoardReadCnt()) %></td>
          </tr>
           <%

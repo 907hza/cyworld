@@ -191,7 +191,6 @@ $(document).ready(function(){
 		if($.trim($("#uId").val()).length <= 0)
 		{
 			alert("OrOiㄷi를 입력ㅎr세요.");
-			$("#uId").val("");
 			$("#uId").focus();
 			return;
 		}
@@ -199,11 +198,11 @@ $(document).ready(function(){
 		if($.trim($("#uPassword").val()).length <= 0)
 		{
 			alert("ㅂi밀번호를 입력ㅎr세요.");
-			$("#uPassword").val("");
 			$("#uPassword").focus();
 			return;
 		}
 		
+		document.loginForm.action ="/loginProc7.jsp";
 		document.loginForm.submit();
 	});
 	
@@ -228,7 +227,7 @@ $(document).ready(function(){
     </div>
     
     <div class="sign-in-container">
-      <form name="loginForm" id="loginForm" method="post" action="/loginProc7.jsp">
+      <form name="loginForm" id="loginForm" method="post">
         <h1>CY_WORLD</h1>
         <input type="text" id="uId" name="uId" placeholder="OrOiㄷi">
         <input type="password" id="uPassword" name="uPassword" placeholder="ㅂi밀번호">

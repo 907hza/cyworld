@@ -27,9 +27,9 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.sist.common.util.StringUtil;
-import com.sist.web.dao.UserDao;
+import com.sist.web.dao.UserDao7;
 //import com.icia.web.dao.UserDao;
-import com.sist.web.model.User;
+import com.sist.web.model.User7;
 import com.sist.web.util.CookieUtil;
 
 /**
@@ -53,9 +53,10 @@ public class UrlUserAuthFilter implements Filter
     public void init(FilterConfig filterConfig) throws  ServletException 
 	{
 		// 필터 초기화 함수 최초 1회만 실행된다.
-		authUrlList = null;
+		authUrlList = null; // web.xml 에서의 <value> /board 인 보드 객체 하나가 들어가있다
         // 필터의 authUrl 파라미터의 값을 읽는다.		
 		String authUrl = filterConfig.getInitParameter("authUrl");
+		// 콤마를 기준으로 자르기 위해서 String 으로 생성
           
         if(!StringUtil.isEmpty(authUrl)) // authUrl 파라미터에 값이 있다면
         {
@@ -118,15 +119,28 @@ public class UrlUserAuthFilter implements Filter
 	 */
 	private boolean isUserLogin(HttpServletRequest request, HttpServletResponse response)
 	{
-		/*
-		String cookieUserId = CookieUtil.getValue(request, "USER_ID");
+		String cookieUserId = CookieUtil.getValue(request, "U_ID");
 		
 		if(!StringUtil.isEmpty(cookieUserId)) // 쿠키 값이 있다면
 		{
-			UserDao userDao = new UserDao();
-			User user = userDao.userSelect(cookieUserId); // 사용자 조회
+//			UserDao userDao = new UserDao();
+//			User user = userDao.userSelect(cookieUserId); // 사용자 조회
+//			
+//			if(user != null && StringUtil.equals(user.getStatus(), "Y"))
+//			{
+//				// 사용자 정보가 있으면서 status 값이 "Y" 이면 정상 로그인된 사용자
+//				return true;
+//			}
+//			else
+//			{
+//				// 쿠키는 있으면서 사용자 정보가 없거나 status 값이 "Y"와 같지 않다면
+//				// 쿠키를 삭제한다.
+//				CookieUtil.deleteCookie(request, response, "USER_ID");
+//			}
+			UserDao7 userDao7 = new UserDao7();
+			User7 user7 = userDao7.uSelect(cookieUserId); // 사용자 조회
 			
-			if(user != null && StringUtil.equals(user.getStatus(), "Y"))
+			if(user7 != null && StringUtil.equals(user7.getStatus(), "Y"))
 			{
 				// 사용자 정보가 있으면서 status 값이 "Y" 이면 정상 로그인된 사용자
 				return true;
@@ -135,13 +149,11 @@ public class UrlUserAuthFilter implements Filter
 			{
 				// 쿠키는 있으면서 사용자 정보가 없거나 status 값이 "Y"와 같지 않다면
 				// 쿠키를 삭제한다.
-				CookieUtil.deleteCookie(request, response, "USER_ID");
+				CookieUtil.deleteCookie(request, response, "U_ID");
 			}
 		}
 		
 		return false;
-		*/
-		return true;
 	}
 	
 	/**

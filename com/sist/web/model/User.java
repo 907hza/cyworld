@@ -70,7 +70,4 @@ public class User implements Serializable
 	public void setRegDate(String regDate) {
 		this.regDate = regDate;
 	}
-	
-	
-
 }

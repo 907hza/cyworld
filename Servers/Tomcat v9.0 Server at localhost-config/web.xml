@@ -4723,6 +4723,13 @@
         <extension>zmm</extension>
         <mime-type>application/vnd.handheld-entertainment+xml</mime-type>
     </mime-mapping>
+    <resource-ref>
+	    <description>DB Connection</description>
+	    <res-ref-name>jdbc/icia</res-ref-name>
+	    <res-type>javax.sql.DataSource</res-type>
+	    <res-auth>Container</res-auth>
+	</resource-ref>
+    
 
   <!-- ==================== Default Welcome File List ===================== -->
   <!-- When a request URI refers to a directory, the default servlet looks  -->
@@ -4739,9 +4746,9 @@
   <!-- to use within your application.                                       -->
 
     <welcome-file-list>
-        <welcome-file>index.html</welcome-file>
-        <welcome-file>index.htm</welcome-file>
-        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>index7.html</welcome-file>
+        <welcome-file>index7.htm</welcome-file>
+        <welcome-file>index7.jsp</welcome-file>
     </welcome-file-list>
 
 </web-app>

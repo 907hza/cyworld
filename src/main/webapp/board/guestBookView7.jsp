@@ -22,13 +22,13 @@
 	String cookieUserId = CookieUtil.getValue(request, "U_ID");
 	
 	long curPage = HttpUtil.get(request,"curPage",(long)1);
-	long boardN = HttpUtil.get(request, "boardN", (long)1);
+	String searchType = HttpUtil.get(request,"searchType");
+	String searchValue = HttpUtil.get(request,"searchValue");
 	long guestN = HttpUtil.get(request, "guestN", (long)1);
 
 		
 	List<GuestBook7> list = null;
 	
-	Board7 board7 = new Board7();
 	BoardDao7 boardDao7 = new BoardDao7();
 	GuestBook7 guestBook7 = boardDao7.gSelect(guestN);
 	
@@ -39,12 +39,12 @@
 	Paging7 paging7 = null;
 	
 	totalCount = boardDao7.guestTotal(guestBook7);
-	
+	System.out.println("totalCount : "+totalCount);
 	if(totalCount > 0)
 	{
 		paging7 = new Paging7(totalCount, PagingConfig7.FIRST_NUM, PagingConfig7.LAST_NUM, curPage);
-		
 		list = boardDao7.cy_gSelect(guestBook7);
+		System.out.println("startNum : " +paging7.getStartNum());
 	}
 %>
 
@@ -65,14 +65,15 @@
 
 			$("#btnDelete").on("click",function(){
 				
-				if($.trim($("#deleteN").val()) == "" )
+				if($.trim($("#deleteN").val()).length <= 0)
 				{
 					alert("삭제할 방명록의 번호를 작성ㅎH주세요.");
-					$("#deleteN").val("")
+					$("#deleteN").focus();
 				}
 
 				if(confirm("ㅎH당 방명록을 삭제ㅎrㅅi겠나요?") == true)
 				{
+					document.bbsForm.guestN.value = document.getElementById('deleteN').value;
 					document.bbsForm.action = "/board/gDelete7.jsp";
 					document.bbsForm.submit();
 				}
@@ -83,10 +84,6 @@
 	</script>
   </head>
   <body>
-<%
-	if(guestBook7 != null) // 보드 객체가 있을 때만 해당 페이지를 보여줄 것, 없으면 list.jsp 로 복귀
-	{
-%>
     <div class="bookcover">
       <div class="bookdot">
         <div class="page">
@@ -99,7 +96,10 @@
             </div>
             <div class="box content-box">
                 <div class="guestbook-scrollbox">
-
+	            <div style="text-align:right;">
+	            <input type="text" name="deleteN" id="deleteN" class="form-control mx-1" maxlength="20" style="width:auto;ime-mode:active;" placeholder="방명록 숫자 입력" />
+          		&nbsp;<button type="button" id="btnDelete" class="menu-button">삭제</button>
+  				</div>
   		<%
      	if(list != null && list.size() > 0)
      	{
@@ -108,6 +108,7 @@
      		for(int i=0 ; i<list.size() ; i++)
      		{
      			GuestBook7 guestBook = list.get(i);
+     			System.out.println(list.get(i));
   		%>                
 	                    <div class="guestbook-box">
 	                        <div class="guestbook-title">No. <%=guestBook.getGuestN() %> &nbsp;
@@ -160,13 +161,8 @@
             </div>
           </div>
     </script>
-<% 
-	}
-%>
-<form name="bbsForm" id="bbsform" method="post">
-	<input type="hidden" id="guestN" name="guestN" value="<%=guestN%>">
-	<input type="hidden" id="boardN" name="boardN" value="<%=boardN%>">
-	<input type="hidden" id="curPage" name="curPage" value="<%=curPage %>" >
-</form>
 </body>
+<form name="bbsForm" id="bbsForm" method="post" >
+	<input type="hidden" id="guestN" name="guestN" value="" />
+</form>
 </html>

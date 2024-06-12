@@ -240,7 +240,7 @@
 
         <div class="mb-3">
             <label for="uBirth">생년월일</label>
-            <input type="text" class="form-control" id="uBirth" name="uBirth" placeholder="2000.01.01">
+            <input type="text" class="form-control" id="uBirth" name="uBirth" placeholder="20000101">
             <div class="invalid-feedback">
         </div>
             

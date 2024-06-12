@@ -26,7 +26,6 @@ import com.sist.common.util.StringUtil;
  * 파일명     : CookieUtil.java
  * 작성일     : 2021. 1. 12.
  * 작성자     : daekk
- * 
  * 설명       :
  * </pre>
  */
@@ -34,7 +33,7 @@ public final class CookieUtil
 {
 	private CookieUtil() {}
 
-	/**
+	/** 
 	 * <pre>
 	 * 메소드명   : addCookie
 	 * 작성일     : 2021. 1. 12.
@@ -50,7 +49,6 @@ public final class CookieUtil
 	 * @param charset  캐릭터 셋
 	 * @return boolean
 	 */
-	
 	public static boolean addCookie(HttpServletResponse response, String domain, String path, int maxAge, String name, String value, String charset)
 	{
 		boolean bFlag = false;
@@ -155,15 +153,15 @@ public final class CookieUtil
 		return addCookie(response, "", "", -1, name, value, "UTF-8");
 	}
 	
-	/*
-	 * 메소드명 : addCookie
-	 * 설명 : 쿠키 생성시 경로 지정 (path 추가)
-	 */
-	public static boolean addCookie(HttpServletResponse response, String path, String name, String value)
-	{
-		return addCookie(response, "", path, -1, name, value, "UTF-8");
-	}
-
+	   /**
+	    * 메소드명 : addCookie
+	    * 설명 : 쿠키생성시 경로 지정
+	    */
+	   public static boolean addCookie(HttpServletResponse response,String path, String name, String value)
+	   {
+	      return addCookie(response, "", path, -1, name, value, "UTF-8");
+	   }
+	   
 	/**
 	 * <pre>
 	 * 메소드명   : getCookie
