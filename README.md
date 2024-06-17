@@ -13,4 +13,4 @@ Spring Framework, Maven, Oracle 21C, Eclipse, SQL Developer, jQuery, RESTful API
 <br>
 <hr style="solid black 1px">
 <h2>DB 설계</h2>
-<img src="/Users/hwanghaejung/Desktop/포트폴리오/2차 JSP 프로젝트" >
+<img src="/Users/hwanghaejung/Desktop/포트폴리오/2차 JSP 프로젝트/cyworld" >
