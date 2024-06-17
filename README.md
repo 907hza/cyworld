@@ -1,3 +1,4 @@
+<br>
 <h1>싸이월드</h1>
 
 <ul>
@@ -8,3 +9,8 @@
 <b>* 개발 환경</b></br>
 JAVA(JDK 1.8), HTML, CSS, JavaScript, Apache Tomcat 9.0, MyBatis,</br>
 Spring Framework, Maven, Oracle 21C, Eclipse, SQL Developer, jQuery, RESTful API (json)
+
+<br>
+<hr style="solid black 1px">
+<h2>DB 설계</h2>
+<img src="/Users/hwanghaejung/Desktop/포트폴리오/2차 JSP 프로젝트" >
