@@ -26,5 +26,7 @@ Spring Framework, Maven, Oracle 21C, Eclipse, SQL Developer, jQuery, RESTful API
 <hr style="solid black 1px">
 <h3>DB 설계</h3>
 <img src="https://github.com/907hza/cyworld/assets/145747413/c5c7048f-545e-4370-a95c-8f3dac1cdf60" />
-
+<br>
+<h3>와이어 프레임</h3>
+<img width="402" alt="스크린샷 2024-06-19 오후 1 15 13" src="https://github.com/907hza/cyworld/assets/145747413/cb37c73b-7f2f-4de4-9220-714683df7b9a">
 
