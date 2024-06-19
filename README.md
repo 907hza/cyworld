@@ -1,5 +1,7 @@
 <h1>싸이월드</h1>
-
+<br>
+<video src="https://github.com/907hza/cyworld/assets/145747413/54a54b8b-95c5-4f11-904d-1dae3e97f923" controls></video>
+<br>
 <ul>
 <li><b>개발 인원</b> : 1명 (개인 프로젝트)</li></br>
 <li><b>프로젝트 목적</b> : JSP 와 JSTL/EL 사용 경험 및 숙련도 향상을 위해서 진행</li></br>
