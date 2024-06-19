@@ -38,7 +38,6 @@
 </ol>
 </p>
 <br>
-<hr style="solid black 1px">
 <h3>(3) DB 설계</h3>
 <img src="https://github.com/907hza/cyworld/assets/145747413/c5c7048f-545e-4370-a95c-8f3dac1cdf60" />
 <br>
