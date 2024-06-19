@@ -22,7 +22,7 @@
 <img alt="SQL Developer" src ="https://img.shields.io/badge/SQL Developer-red.svg?&style=for-the-badge&logo=SQL Developer&logoColor=white"/>
 <img alt="RESTful API" src ="https://img.shields.io/badge/RESTful API-powderblue.svg?&style=for-the-badge&logo=RESTful API&logoColor=white"/>
 </div>
-<br><br>
+<br>
 
 <h3>* 싸이월드 기능</h3>
 <p>
