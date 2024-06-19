@@ -1,6 +1,6 @@
 <h1>싸이월드</h1>
 <br>
-<video id="myVideo" src="https://github.com/907hza/cyworld/assets/145747413/54a54b8b-95c5-4f11-904d-1dae3e97f923" controls onloadedmetadata="this.playbackRate=2.0;"></video>
+<video id="myVideo" src="https://github.com/907hza/cyworld/assets/145747413/54a54b8b-95c5-4f11-904d-1dae3e97f923" controls onloadedmetadata="this.playbackRate=2.0;" type="video/mp4"></video>
 <br>
 <ul>
 <li><b>개발 인원</b> : 1명 (개인 프로젝트)</li></br>
