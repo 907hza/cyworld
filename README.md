@@ -12,13 +12,13 @@ Spring Framework, Maven, Oracle 21C, Eclipse, SQL Developer, jQuery, RESTful API
 <h3>* 싸이월드 기능</h3>
 <p>
 <ol>
-<li>회원</li>
+<li><b>회원</b></li>
   : 로그인, 회원가입, 회원정보수정
-<li>게시판</li>
+<li><b>게시판</b></li>
   : 글 작성(첨부파일), 글 삭제, 글 수정, 페이징, 검색, 조회수
-<li>방명록</li>
+<li><b>방명록</b></li>
   : 글 삭제
-<li>다이어리</li>
+<li><b>다이어리</b></li>
   : 비밀글 작성
 </ol>
 </p>
