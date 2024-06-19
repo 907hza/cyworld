@@ -1,4 +1,3 @@
-<br>
 <h1>싸이월드</h1>
 
 <ul>
@@ -6,11 +5,11 @@
 <li><b>프로젝트 목적</b> : JSP 와 JSTL/EL 사용 경험 및 숙련도 향상을 위해서 진행</li></br>
 </ul>
 
-<b>* 개발 환경</b></br>
+<h3>* 개발 환경</h3></br>
 JAVA(JDK 1.8), HTML, CSS, JavaScript, Apache Tomcat 9.0, MyBatis,</br>
 Spring Framework, Maven, Oracle 21C, Eclipse, SQL Developer, jQuery, RESTful API (json)<br>
 
-<b>* 싸이월드 기능</b>
+<h3>* 싸이월드 기능</h3>
 <p>
 <ol>
 <li>회원</li>
@@ -25,7 +24,7 @@ Spring Framework, Maven, Oracle 21C, Eclipse, SQL Developer, jQuery, RESTful API
 </p>
 <br>
 <hr style="solid black 1px">
-<h2>DB 설계</h2>
+<h3>DB 설계</h3>
 <img src="https://github.com/907hza/cyworld/assets/145747413/c5c7048f-545e-4370-a95c-8f3dac1cdf60" />
 
 
