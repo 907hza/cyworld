@@ -5,7 +5,7 @@
 <li><b>프로젝트 목적</b> : JSP 와 JSTL/EL 사용 경험 및 숙련도 향상을 위해서 진행</li></br>
 </ul>
 
-<h3>* 개발 환경</h3></br>
+<h3>* 개발 환경</h3>
 JAVA(JDK 1.8), HTML, CSS, JavaScript, Apache Tomcat 9.0, MyBatis,</br>
 Spring Framework, Maven, Oracle 21C, Eclipse, SQL Developer, jQuery, RESTful API (json)<br>
 
