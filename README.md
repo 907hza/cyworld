@@ -14,13 +14,13 @@
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img alt="MyBatis" src ="https://img.shields.io/badge/MyBatis-blue.svg?&style=for-the-badge&logo=MyBatis&logoColor=white"/>
-<img alt="Apache Tomcat 9.0" src ="https://img.shields.io/badge/Apache Tomcat 9.0-orange.svg?&style=for-the-badge&logo=Apache Tomcat 9.0&logoColor=white"/>
-<img alt="Maven" src ="https://img.shields.io/badge/Maven-black.svg?&style=for-the-badge&logo=Maven&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
-<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
-<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
-<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
-, , , Oracle 21C, Eclipse, SQL Developer, , RESTful API (json)<br><br>
+<img alt="Apache Tomcat 9.0" src ="https://img.shields.io/badge/Apache Tomcat-yellow.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/>
+<img alt="Maven" src ="https://img.shields.io/badge/Maven-orange.svg?&style=for-the-badge&logo=Maven&logoColor=white"/>
+<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-white.svg?&style=for-the-badge&logo=Oracle&logoColor=black"/>
+<img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-purple.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
+<img alt="SQL Developer" src ="https://img.shields.io/badge/SQL Developer-red.svg?&style=for-the-badge&logo=SQL Developer&logoColor=white"/>
+<img alt="RESTful API" src ="https://img.shields.io/badge/RESTful API-powderblue.svg?&style=for-the-badge&logo=RESTful API&logoColor=white"/>
+<br><br>
 
 <h3>* 싸이월드 기능</h3>
 <p>
