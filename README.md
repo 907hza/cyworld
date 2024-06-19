@@ -6,6 +6,7 @@
 </ul>
 
 <h3>* 개발 환경</h3>
+<div>
 <img alt="macOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -20,6 +21,7 @@
 <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-purple.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <img alt="SQL Developer" src ="https://img.shields.io/badge/SQL Developer-red.svg?&style=for-the-badge&logo=SQL Developer&logoColor=white"/>
 <img alt="RESTful API" src ="https://img.shields.io/badge/RESTful API-powderblue.svg?&style=for-the-badge&logo=RESTful API&logoColor=white"/>
+</div>
 <br><br>
 
 <h3>* 싸이월드 기능</h3>
