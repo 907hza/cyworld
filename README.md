@@ -5,7 +5,7 @@
 <li><b>프로젝트 목적</b> : JSP 와 JSTL/EL 사용 경험 및 숙련도 향상을 위해서 진행</li></br>
 </ul>
 
-<h3>* 개발 환경</h3>
+<h3>(1) 개발 환경</h3>
 <div>
 <img alt="macOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,7 +24,7 @@
 </div>
 <br>
 
-<h3>* 싸이월드 기능</h3>
+<h3>(2) 싸이월드 기능</h3>
 <p>
 <ol>
 <li><b>회원</b></li>
@@ -39,9 +39,9 @@
 </p>
 <br>
 <hr style="solid black 1px">
-<h3>DB 설계</h3>
+<h3>(3) DB 설계</h3>
 <img src="https://github.com/907hza/cyworld/assets/145747413/c5c7048f-545e-4370-a95c-8f3dac1cdf60" />
 <br>
-<h3>와이어 프레임</h3>
+<h3>(4) 와이어 프레임</h3>
 <img src="https://github.com/907hza/cyworld/assets/145747413/dfc33d27-9a3a-4a75-bebc-85518827a57f">
 
