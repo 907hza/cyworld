@@ -3,7 +3,7 @@
 <video id="myVideo" src="https://github.com/907hza/cyworld/assets/145747413/54a54b8b-95c5-4f11-904d-1dae3e97f923" controls></video>
 <script>
    var video = document.getElementById('myVideo');
-   video.playbackRate = 2.0;
+   video.playbackRate = 3.0;
 </script>
 <br>
 <ul>
